@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# TestZZ Documentation
+# Справочная информация
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
