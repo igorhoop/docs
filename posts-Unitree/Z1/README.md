@@ -4,4 +4,4 @@ sort: 4
 
 # Манипулятор Z1
 
-source: `{{ page.path }}`
+![Манипулятор](/assets/images/z1.jpg){: width="600px"}

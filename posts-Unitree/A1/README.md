@@ -192,7 +192,7 @@ Small images should be shown at their actual size.
 
 Large images should always scale down and fit in the content container.
 
-![Branching](/assets/images/image-a1.png){: width="200px" style="text-align: center"}
+![Branching](/assets/images/image-a1.png){: width="200px"}
 
 ```
 This is the final element on the page and there should be no margin below this.
