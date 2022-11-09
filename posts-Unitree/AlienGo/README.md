@@ -1,3 +1,7 @@
-# file3
+---
+sort: 2
+---
+
+# AlienGo
 
 source: `{{ page.path }}`
