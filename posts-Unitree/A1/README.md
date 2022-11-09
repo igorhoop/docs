@@ -136,21 +136,7 @@ Definition lists can be used with HTML syntax. Definition terms are bold and ita
 
 ---
 
-Tables should have bold headings and alternating shaded rows.
 
-| Artist          | Album          | Year |
-| --------------- | -------------- | ---- |
-| Michael Jackson | Thriller       | 1982 |
-| Prince          | Purple Rain    | 1984 |
-| Beastie Boys    | License to Ill | 1986 |
-
-
-жирная черта снизу (когда как)
----
-
-asdf
----
----
 
 Встраиваемый сниппет кода `var foo = "bar";` может быть встроен в строку
 
@@ -162,7 +148,7 @@ Code can also be shown in a block element.
 var foo = "bar";
 ```
 
-Code can also use syntax highlighting.
+Код с подсветкой
 
 ```javascript
 var foo = "bar";
@@ -177,16 +163,7 @@ var foo =
   "The same thing is true for code with syntax highlighting. A single line of code should horizontally scroll if it is really long.";
 ```
 
-Inline code inside table cells should still be distinguishable.
 
-| Language   | Code               |
-| ---------- | ------------------ |
-| Javascript | `var foo = "bar";` |
-| Ruby       | `foo = "bar"`      |
-
----
-
-Small images should be shown at their actual size.
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
