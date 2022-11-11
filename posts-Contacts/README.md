@@ -22,6 +22,11 @@ sort: 2
 По вопросам гарантийного обслуживания [телеграм-бот](https://t.me/robosobaka_bot)
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lgiIq0H7Gd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ---
 
 ![3Logic Logo](/assets/images/3l_logo.svg){: width="200px"}
