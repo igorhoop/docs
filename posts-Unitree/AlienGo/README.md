@@ -4,4 +4,8 @@ sort: 2
 
 # AlienGo
 
-source: `{{ page.path }}`
+
+
+<center>
+<img src="/assets/images/image_aliengo.png" width="400px"/>
+</center>

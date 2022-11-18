@@ -5,4 +5,8 @@ sort: 3
 
 # Go1
 
-source: `{{ page.path }}`
+
+<center>
+<img src="/assets/images/image_go1.png" width="400px"/>
+</center>
+
