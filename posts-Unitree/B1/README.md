@@ -4,4 +4,8 @@ sort: 4
 
 # B1
 
-source: `{{ page.path }}`
+
+<center>
+<img src="/assets/images/b1_image.png" width="400px"/>
+</center>
+
