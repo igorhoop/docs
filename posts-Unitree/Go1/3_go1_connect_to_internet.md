@@ -25,7 +25,7 @@ sudo route add default gw 192.168.0.1 wlan0           # вместо 192.168.0.1
 `sudo ifconfig wlan0 up`
 
 
-<img src="/images/go1_configNetwork.png" width="450px"/>
+<img src="/assets/images/go1_configNetwork.png" width="450px"/>
 
 
 
