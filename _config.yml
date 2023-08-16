@@ -1,5 +1,5 @@
 title: 3Logic Robodocs
-description: Документация отдела
+description: this is my awesome site. 
 
 theme: null
 
@@ -30,4 +30,6 @@ exclude:
   - webpack.config.js
   - jekyll-rtd-theme.gemspec
   - test
+
+
 
