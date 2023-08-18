@@ -48,7 +48,9 @@ Jueying Lite3 — это интеллектуальный четвероноги
 
 ### Интерфейсы робота
 
+#### Venture
 ![Интерфейсы](/assets/images/Интерфейсы_venture.png){: width="1000px"}
+#### Pro/LiDAR
 ![Интерфейсы](/assets/images/Интерфейсы_PRO_LiDAR.png){: width="1000px"}
 
 ## Начало работы
