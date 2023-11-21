@@ -40,7 +40,7 @@
 В начале необходимо скачать приложение Unitree Go2. После этого зайдите в приложение создайте свой аккаунт для привязки робота.
 Поставьте галочку напротив "please review and agree the Privacy Policy, the Terms of Service and the Legal Statement" и нажмите Sign up.
 
-![Схема собаки](/assets/images/go2_reg1.jpeg{: width="800px"}
+![Схема собаки](/assets/images/go2_reg1.jpeg){: width="800px"}
 
 Введите ваш email и код с картинки.
 ![Схема собаки](/assets/images/go2_reg2.jpeg){: width="800px"}
