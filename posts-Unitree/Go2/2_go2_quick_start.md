@@ -1,13 +1,6 @@
 # Быстрый старт
 
-> Данное руководство дает базовую информацию по эксплуатация робособаки модели Go2. Также необходимую вводную информацию можно получить из видеоинструкций в официальном приложении Unitree.
-
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WoQKnJch65Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
-
+> Данное руководство дает базовую информацию по эксплуатация робособаки модели Go2. Также необходимую вводную информацию можно получить из видеоинструкций в официальном приложении Unitree в меню GUIDE.
 
 ## Начало работы
 Положите Go2 на ровную поверхность и вставьте аккумулятор. Аккумулятор вставляется легким усилием и защелкивается. Если аккумулятор не вставляется легко, проверьте, правильно ли вы вставляете батарею, не перевернут ли он. Не делайте сильного нажима, чтобы не повредить интерфейс батареи и разъем. 
@@ -47,18 +40,18 @@
 В начале необходимо скачать приложение Unitree Go2. После этого зайдите в приложение создайте свой аккаунт для привязки робота.
 Поставьте галочку напротив "please review and agree the Privacy Policy, the Terms of Service and the Legal Statement" и нажмите Sign up.
 
-![Схема собаки](/assets/images/go2_reg1.jpeg{: width="400px"}
+![Схема собаки](/assets/images/go2_reg1.jpeg{: width="800px"}
 
 Введите ваш email и код с картинки.
-![Схема собаки](/assets/images/go2_reg2.jpeg){: width="400px"}
+![Схема собаки](/assets/images/go2_reg2.jpeg){: width="800px"}
 
 Установите пароль для вашего аккаунта.
-![Схема собаки](/assets/images/go2_reg3.jpeg){: width="400px"}
+![Схема собаки](/assets/images/go2_reg3.jpeg){: width="800px"}
 
 Войдите в ваш аккаунт и нажмите Add robodog. Выберите вашего Go2 из списка. Введите имя вашего робота.
-![Схема собаки](/assets/images/go2_reg_rob.jpeg){: width="400px"}
-![Схема собаки](/assets/images/reg_last.png){: width="400px"}
-![Схема собаки](/assets/images/reg_fin.png){: width="400px"}
+!(/assets/images/go2_reg_rob.png){: width="800px"}
+!(/assets/images/reg_last.png){: width="800px"}
+!(/assets/images/reg_fin.png){: width="800px"}
 Нажмите reconnect, если соединение отсутствует.
 ## Режимы
 
