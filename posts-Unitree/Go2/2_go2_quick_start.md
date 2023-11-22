@@ -98,6 +98,31 @@
 <img src="/assets/images/go2_commands.png" width="1000px"/>
 </center>
 
+## Голосовые команды
+
+Go2-EDU имеет встроенный голосовой модуль. Вы можете использовать следующие голосовые команды для управления:
+
+| Команда                     | Ответ                | Действие               |
+|-----------------------------|----------------------|------------------------|
+| Hey Benben                  | I’m here.            |                        |
+| Turn up the sound           | Yes sir.             | Прибавить звук         |
+| Turn down the sound         | OK sir.              | Убавить звук           |
+| Show me a dance             | OK, let's dance!     | Начать танец           |
+| Wiggle Butt                 | As you wish.         | Двигать задом          |
+| Bow with hands              | Wish you good luck!  | Встать и поклониться   |
+| Lock                        | Yes, sir. It's done. | Заблокировать суставы  | 
+| Unlock                      | OK, now I can move.  | Разблокировать суставы |
+| Move forward                | No problem.          | Рзблокироваться и двигаться вперет 2сек |
+| Climbing mode               | I'm climbing now.    | Включить режим ходьбы по лестнице |
+| Running mode                | I'm the Flash.       | Включить режим бега    |
+| Turn on obstacle avoidance  | Yes sir.             | Включить режим обхода перпятствий |
+| Turn off obstacle avoidance | No problem           | Выключить режим обхода препятствий |
+| Roll over                   | I'm rolling          | Перевернуться          |
+| Stretch yourself            | What a sunny day!    | Начать растяжку        |
+| Shake hand                  | OK sir               | Подать лапу            | 
+| Lie down                    | I‘m tired/I'm sleepy | Лечь                   |
+| Stand up                    | Let's go!            | Встать                 |
+
 ## Рекомендации
 
 - Перед восстановлением после падения проверьте, не мешают ли конечности робота друг другу. Если мешают — выключите приводы двойным нажатием L2+B и выставите положение суставов, как показано на странице 1

@@ -7,6 +7,6 @@ sort: 3
 
 
 <center>
-<img src="/assets/images/image_go1.png" width="400px"/>
+<img src="/assets/images/go2.jpg" width="400px"/>
 </center>
 
