@@ -6,6 +6,6 @@ sort: 3
 
 
 <center>
-<img src="/assets/images/JYx20.jpeg" width="600px"/>
+<img src="/assets/images/X30_Pro_full _view.png" width="600px"/>
 </center>
 
