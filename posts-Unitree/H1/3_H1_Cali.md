@@ -46,7 +46,7 @@
  11. Перезапустите робота
 
 <center>
-<iframe width="800" height="500" src="https://youtube.com/shorts/FPDFjdQyM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://youtube.com/shorts/FPDFjdQyM_w?si=t4WMXlq8pRGSjZTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ### Проверка калибровки суставов
