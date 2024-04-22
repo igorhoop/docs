@@ -46,7 +46,7 @@
  11. Перезапустите робота
 
 <center>
-<iframe width="800" height="500" src="https://youtube.com/shorts/FPDFjdQyM_w?si=t4WMXlq8pRGSjZTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JejY3IfSjTw?si=MipmVQ0q7vZ2QX-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ### Проверка калибровки суставов
