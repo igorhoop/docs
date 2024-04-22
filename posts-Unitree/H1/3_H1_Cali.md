@@ -45,7 +45,9 @@
  10. Нажмите одновременно три клавиши L1 + R1 + R2
  11. Перезапустите робота
 
-![Схема H1](/assets/images/IMG_8673.MP4){: width="800px"}
+<center>
+<iframe width="800" height="500" src="https://youtube.com/shorts/FPDFjdQyM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ### Проверка калибровки суставов
  1. Включите робота
