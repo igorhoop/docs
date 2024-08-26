@@ -36,7 +36,7 @@ ifconfig
 ```
 <div style="text-align: center;">
 
-![NetAdd](/assets/images/sdk5.png)
+![NetAdd](/assets/images/sdk5.png){: width="800px"}
 
 </div>
 
