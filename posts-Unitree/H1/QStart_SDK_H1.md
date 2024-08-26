@@ -36,7 +36,7 @@ ifconfig
 ```
 <div style="text-align: center;">
 
-![адрес бортового компьютера](/assets/image/sdk5.png)
+![NetAdd](/assets/image/sdk5.png)
 
 </div>
 
