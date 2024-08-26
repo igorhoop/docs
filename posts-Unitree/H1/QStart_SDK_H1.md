@@ -35,9 +35,7 @@ make
 ifconfig
 ```
 
-<div style="text-align: center;">
-![NetAdd](/assets/images/sdk5.png)
-</div>
+![NetAdd](/assets/images/sdk5.png){: width="800px" style="display: block; margin: 0 auto"}
 
  Как показано на изображении, имя компьютера с адресом 192.168.123.222 это ==enxf8e43b808e06==. Это надо запомнить.
 
