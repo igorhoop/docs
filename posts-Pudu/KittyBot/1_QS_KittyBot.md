@@ -32,11 +32,11 @@
 
 * **Режим лазерного лидара**
 1. Запускаем инструмент для маппинга в настройках в приложении на экране робота 
-![KittyApp](/assets/images/Kitty_AppSettings.png)
+![KittyApp](/assets/images/Kitty_AppSettings.png)\
 Выбираем **"Редактирование карт"**
-![KittyMapEdit](/assets/images/Kitty_mapedit.png)
+![KittyMapEdit](/assets/images/Kitty_mapedit.png)\
 Создаем новую карту
-![KittyNewMap](/assets/images/Kitty_newmap.png)
+![KittyNewMap](/assets/images/Kitty_newmap.png)\
 2. Отмечаем начальную точку и начинаем толкать робота.\ Сопровождаем его по пути для отстройки всей карты.
 ![KittyMapStart](/assets/images/Kitty_carrymapping.png)
 ```warning
