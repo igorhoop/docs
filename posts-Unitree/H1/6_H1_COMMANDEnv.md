@@ -111,7 +111,6 @@ octet reserve[3];  //reserve
 
 #endif  // __unitree_go__msg__bms_cmd__idl__
 ```
-\
 + **Получение данных о состоянии.** Обеспечивает разработчика возможностью получать данные с моторов, датчиков, аккумуляторе, которые публикуются в топик DDS **"rt/lowState"**.
 * информация о двигателях передается в виде последовательности значений, индекс каждого значения соотвествует индексу привода.
 
@@ -158,7 +157,6 @@ unsigned long reserve[2];   //Current motor communication frequency+motor error 
 
 #endif  // __unitree_go__msg__motor_state__idl_
 ```
-\
 * Получение данных с IMU:
 
 ```cpp
