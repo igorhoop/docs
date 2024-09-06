@@ -2,8 +2,8 @@
 
 Для успешной работы с продуктами **PUDUTech** необходимо установить мобильное приложение на свой смартфон, для этого отсканируйте QR-код с соответсвующим устройством.
 
-![PuduQRIOS{caption=IOS.}](/assets/images/PuduQR_app_ios.png){: width="150px" height="150px" style="display: inline; text-align:center"}
-![PuduQRAndroid{caption=Android.}](/assets/images/PuduQR_app_android.png ){: width="150px" height="150px" style="display: inline;text-align:center"}
+![PuduQRIOS{caption=IOS}](/assets/images/PuduQR_app_ios.png){: width="150px" height="150px" style="display: inline; text-align:center"}
+![PuduQRAndroid{caption=Android}](/assets/images/PuduQR_app_android.png ){: width="150px" height="150px" style="display: inline;text-align:center"}
 
 Или воспользуйтесь прямой ссылкой на [Приложение для IOS](https://apps.apple.com/app/id1598340894) и [Приложение для Андройд](https://business-hongkong-apk.oss-cn-hongkong.aliyuncs.com/apk/prod/PuduLink.apk).
 
