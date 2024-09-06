@@ -11,6 +11,14 @@
 
 
 Данное **приложение** обеспечивает удаленный доступ к управлению и менеджменту робота, а так же позволяет получить **Авторизационный код** для безопастного доступа к роботу и его функциям.
+Например для любых манипуляций с картами, робот будет запрашивать данный код, либо отсканировать предоставленный QR используя мобильное приложение.
+
+![PuduAuthCode](/assets/images/Pudu_AuthCode.png){:.image style="display: block; margin: 20px auto"}\
+**Авторизационный код** можно найти в Центре данных облака **PUDU Cloud** по следующему пути [Store Managment] -> [Store] -> [Details].
+
+![PuduStoreMngmt](/assets/images/Pudu_storemenagment.png){:.image style="display: block; margin: 20px auto"}
+![PuduStore](/assets/images/Pudu_StoreDetails.png){:.image style="display: block; margin: 20px auto"}
+
 
 ## Требования к окружению
 
