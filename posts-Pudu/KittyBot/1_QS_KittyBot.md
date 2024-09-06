@@ -1,11 +1,12 @@
 # Быстрый старт
 
-Для успешной работы с продуктами **PUDUTech** необходимо установить мобильное приложение на свой смартфон
+Для успешной работы с продуктами **PUDUTech** необходимо установить мобильное приложение на свой смартфон, для этого отсканируйте QR-код с соответсвующим устройством.
 
-![PuduQRIOS](/assets/images/PuduQR_app_ios.png){: width="150px" height="150px" style="display: block; margin: 20px 15px" caption="[Приложение для IOS](https://apps.apple.com/app/id1598340894)"}
-![PuduQRAndroid](/assets/images/PuduQR_app_android.png ){: width="150px" height="150px" style="display: block; margin: 20px 15px" caption="[Приложение для Андройд](https://business-hongkong-apk.oss-cn-hongkong.aliyuncs.com/apk/prod/PuduLink.apk)"}
+![PuduQRIOS](/assets/images/PuduQR_app_ios.png){: width="150px" height="150px" style="display: inline; margin: 20px 15px" caption="IOS"}
+![PuduQRAndroid](/assets/images/PuduQR_app_android.png ){: width="150px" height="150px" style="display: inline; margin: 20px 15px" caption="Android"}
 
-<img src="/assets/images/PuduQR_app_ios.png" alt="PuduQRIOS" caption="[Приложение для IOS](https://apps.apple.com/app/id1598340894)" width="150" height="150"/>  
+Или воспользуйтесь прямой ссылкой на [Приложение для IOS](https://apps.apple.com/app/id1598340894) и [Приложение для Андройд](https://business-hongkong-apk.oss-cn-hongkong.aliyuncs.com/apk/prod/PuduLink.apk).
+
 
 Данное **приложение** обеспечивает удаленный доступ к управлению и менеджменту робота, а так же позволяет получить **Авторизационный код** для безопастного доступа к роботу и его функциям.
 
