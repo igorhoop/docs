@@ -3,7 +3,7 @@ sort: 3
 ---
 
 
-# KittyBot
+# KettyBot
 
 
 <center>
