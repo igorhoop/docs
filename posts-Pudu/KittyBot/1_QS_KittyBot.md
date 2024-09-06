@@ -2,8 +2,8 @@
 
 Для успешной работы с продуктами **PUDUTech** необходимо установить мобильное приложение на свой смартфон
 
-![PuduQRIOS](/assets/images/PuduQR_app_ios.png "[Приложение для IOS](https://apps.apple.com/app/id1598340894)"){: width="150px" height="150px" style="display: block; margin: 20px 15px"}
-![PuduQRAndroid](/assets/images/PuduQR_app_android.png "[Приложение для Андройд](https://business-hongkong-apk.oss-cn-hongkong.aliyuncs.com/apk/prod/PuduLink.apk)"){: width="150px" height="150px" style="display: block; margin: 20px 15px"}
+![PuduQRIOS](/assets/images/PuduQR_app_ios.png caption="[Приложение для IOS](https://apps.apple.com/app/id1598340894)"){: width="150px" height="150px" style="display: block; margin: 20px 15px"}
+![PuduQRAndroid](/assets/images/PuduQR_app_android.png caption="[Приложение для Андройд](https://business-hongkong-apk.oss-cn-hongkong.aliyuncs.com/apk/prod/PuduLink.apk)"){: width="150px" height="150px" style="display: block; margin: 20px 15px"}
 
 Данное **приложение** обеспечивает удаленный доступ к управлению и менеджменту робота, а так же позволяет получить **Авторизационный код** для безопастного доступа к роботу и его функциям.
 
