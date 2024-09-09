@@ -60,7 +60,7 @@
 		- так что бы камера сверху робота смотрела **ровно на потолочные метки**
 	![KettyStartPosFloor](/assets/images/Ketty_StartPos_Floor.png)\
 		- на растоянии около ~1 метра, так что бы камера спереди робота смотрела **на настенные маркера**
-	![KettyStartPosWall](/assets/images/Ketty_StartPos_Wall.png)\
+	![KettyStartPosWall](/assets/images/Ketty_StartPos_Wall.png)
 3. Для запуска робота убедитесь, что **ключ вставлен** в разъем слева снизу и **переведен в состояние включения**
 	![KettyKeyOn](/assets/images/Ketty_Key.png)\
 ```warning
