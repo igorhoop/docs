@@ -50,10 +50,10 @@
 * **Первый запуск**\
 	Для **первого старта робота в новом месте**, у робота имеется функция создания карт без использования Инструментов маппинга.
 	1. Начинать работу стоит с выбора и разметки начальной точки для робота. Это могут быть **настенные маркера**
-![KettyWall](/assets/images/Ketty_wall.png)\
+		![KettyWall](/assets/images/Ketty_wall.png)\
  	и **потолочные метки** (поставляются в комплекте с роботом).\
-![KettyFloor](/assets/images/Ketty_floor.png)\
-	Их следует разместить в желаемом месте в соотвествии изображениями выше, при этом не стоит их размещать на отражающих поверхностях, таких как стекло, керамическая плитка или глянцевые потолки.
+		![KettyFloor](/assets/images/Ketty_floor.png)\
+	Их следует разместить в желаемом месте в соотвествии изображениями выше, при этом не стоит их размещать на отражающих 		поверхностях, таких как стекло, керамическая плитка или глянцевые потолки.
 	2. Установите робота в его начальное положение:\
 		- так что бы камера сверху робота смотрела **ровно на потолочные метки**
 		![KettyStartPosFloor](/assets/images/Ketty_StartPos_Floor.png)
@@ -70,36 +70,36 @@
 		Касание экрана во время движения поставит робота на паузу, до следующего касания экрана.
 * **Режим лазерного лидара**
 	1. Запускаем инструмент для маппинга в настройках в приложении на экране робота \
-![KittyApp](/assets/images/Kitty_AppSettings.png)\
-Выбираем **"Редактирование карт"**\
-![KittyMapEdit](/assets/images/Kitty_mapedit.png)\
-Создаем новую карту **"New map"**\
-![KittyNewMap](/assets/images/Kitty_newmap.png)\
+		![KittyApp](/assets/images/Kitty_AppSettings.png)\
+	Выбираем **"Редактирование карт"**\
+		![KittyMapEdit](/assets/images/Kitty_mapedit.png)\
+	Создаем новую карту **"New map"**\
+		![KittyNewMap](/assets/images/Kitty_newmap.png)\
 	2. Отмечаем начальную точку и начинаем толкать робота. Сопровождаем его по пути для отстройки всей карты.\
-![KittyMapStart](/assets/images/Kitty_carrymapping.png)
+		![KittyMapStart](/assets/images/Kitty_carrymapping.png)
 ```warning
 **Старайтесь не перекрывать камеры робота.**
 ```
-![KittyLidarMap](/assets/images/Kitty_lidarmapping.png)
+		![KittyLidarMap](/assets/images/Kitty_lidarmapping.png)
 	3. Выбираем желаемые функции робота (их можно изменить в любое время).\
-![KittyFunc](/assets/images/Kitty_function.png) 
+		![KittyFunc](/assets/images/Kitty_function.png) 
 	4. Модифицируем карту добавляя на нее необходимые объекты взаимодействия и опасные зоны.\
-![KittySpecial](/assets/images/Kitty_app_specialelements.png)
+		![KittySpecial](/assets/images/Kitty_app_specialelements.png)
 	5. Разграничивайте зоны, в которые робот не должен заезжать виртуальными стенами.\
-![vwall](/assets/images/Kitty_vwall.png)
+		![vwall](/assets/images/Kitty_vwall.png)
 	6. Для проверки корректности работы верните робота на начальную точку и запустите проезд к любой выбранной точке на карте.
 
 ## Добавление промоматериалов
 
 * **Настройка бизнес рекламы**\
 Добавление промоматериалов доступно из облака PUDU Cloud. В том числе с проигрыванием звуковых файлов.\
-![KittyAdvert](/assets/images/Kitty_promoscreen.png)
+	![KittyAdvert](/assets/images/Kitty_promoscreen.png)
 	1. Зарегестрировать аккаунт пользователя в облаке и выбрать необходимово робота\
-![KittyAdSelect](/assets/images/Kitty_ad.png)
+		![KittyAdSelect](/assets/images/Kitty_ad.png)
 	2. Можно либо выбрать уже загруженные ранее рекламные материалы, либо добавить новые, для этого перейдите **"Add Ad"**\
-![KittyAddAd](/assets/images/Kitty_advertising.png)
+		![KittyAddAd](/assets/images/Kitty_advertising.png)
 	3. В открывшемся окне необходимо выбрать материал, дать ему системное имя, скорректировать длительность, а так же указать период повторяемости.\
-![KittyAdSetting](/assets/images/Kitty_ad_setting.png)
+		![KittyAdSetting](/assets/images/Kitty_ad_setting.png)
 ```warning
 Учтите, загрузить можно изображения в формате **.jpg**, **.jpeg**, **.png** и **.gif** с максимальным весом не более 20Mb. Рекомендуемое разрешение изображения 1080х640 пикселей.\
 Видеофайлы должны быть в формате **.mp4**, а их вес не должен превышать 500Mb. Рекомендуемое разрешение трансляции 1080p.
