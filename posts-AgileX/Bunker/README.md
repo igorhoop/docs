@@ -5,8 +5,4 @@ sort: 1
 
 # Bunker
 
-
-<center>
-<img src="/assets/images/Tracer.png" width="600px"/>
-</center>
-
+Раздел переехал в новую базу знаний: [robodocs.3logic.ru](robodocs.3logic.ru)
